@@ -4,7 +4,7 @@ I'm a software engineer, cook, gamer, melomaniac and investor - always learning 
 
 Currently:
 - working as a Software Engineer at Nerds & Company in the Netherlands
-- interested in Typescript, Angular, Vue and Ruby on Rails
+- interested in Typescript, Angular and Ruby on Rails
 - reading books on technology, economics and health
 
 More about me on my website - https://emiltodirascu.com/
