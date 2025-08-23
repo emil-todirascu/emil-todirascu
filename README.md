@@ -1,10 +1,9 @@
 ### Hi, I'm Emil
 
-I'm a software engineer, cook, gamer, melomaniac and investor - always learning and becoming the best version of myself.
+I'm a software engineer, competitive programmer and investor - always learning and becoming the best version of myself.
 
-Currently:
-- working as a Software Engineer at Nerds & Company in the Netherlands
-- interested in Typescript, Angular and Ruby on Rails
-- reading books on technology, economics and health
+In my free time I love cooking, reading, gaming and listening to music.
 
+I am currently working as a developer at Nerds & Company in the Netherlands.
+  
 More about me on my website - https://emiltodirascu.com/
