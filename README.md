@@ -1,4 +1,4 @@
-### Hi, I'm Emil
+## Hi, I'm Emil!
 
 I'm a software developer, competitive programmer and investor.
 
